@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Here are some ideas to get you started:
+
 
 ## 🔨 I’m currently working on
 - [Arch Shooter](https://github.com/ChickenJack007/Arch-Shooter), Current project for a class
