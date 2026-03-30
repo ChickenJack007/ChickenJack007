@@ -9,7 +9,7 @@
 
 ### 💻 Programing Languages
 - Python, fluent
-- Rust, basic
+- Rust, somewhat fluent
 - C++, basic
   
 ### 📚 I’m currently learning
