@@ -4,7 +4,6 @@
 
 
 ## 🔨 I’m currently working on
-- [My Portfolio](https://chickenjack007.github.io/portfolio/), more about me
 - My hyprland rice
 - Expaning my knowledge in various languages
 
@@ -14,9 +13,11 @@
 - Rust, somewhat fluent
 - html, proficient 
 - C++, basic
+- qml, basic
   
 ### 📚 I’m currently learning
 - Rust
 - C++
 - html + CSS
 - JS
+- quickshell
